@@ -2,4 +2,10 @@
 A CSS-File for small projects
 
 ## Todo
-* All of it!
+* Body
+* Links
+* Basic grid
+* Responsive grid
+* Buttons
+* Nav's
+* Alerts
