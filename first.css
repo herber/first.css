@@ -1,0 +1,93 @@
+/*
+    FIRST.CSS
+    Licenced under MIT
+    Github.com/withtobi/first.css
+*/
+
+/* 
+    Basic body styles 
+*/
+body {
+    margin: 0px;
+    padding: 0px;
+    left: 0px;
+    top: 0px;
+    font-size: 2.4em;
+    font-family: monospace, sans-serif;
+}
+
+/* 
+    Small body styles 
+*/
+body.small {
+    max-width: 960px;
+    margin: 100px auto;
+    font-size: 2.4em;
+    font-family: monospace, sans-serif;
+    padding: 0px;
+}
+
+/* 
+    Wrapper styles 
+*/
+.main, .wrapper, .inner {
+    max-width: 960px;
+    margin: 100px auto;
+}
+
+/* 
+    Link styles 
+*/
+a {
+    text-decoration: none;
+    color: black;
+    border: solid #eeeeee 3px;
+    
+    -webkit-transition: all .4s;
+    -moz-transition: all .4s;
+    -o-transition: all .4s;
+    -ms-transition: all .4s;
+    transition: all .4s;
+}
+
+a:hover, a:active {
+    border: solid black 3px;
+}
+
+/* 
+    Basic grid styles 
+*/
+.grid {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;  
+    -webkit-flex-flow: row wrap;
+    flex-flow: row wrap;
+}
+
+/* 1/12 */
+.grid.1 {
+    width: 8.3%;
+}
+
+/* 2/12 */
+.grid.2 {
+    width: 16.6%;
+}
+
+/* 3/12 */
+.grid.3 {
+    width: 33.3%;
+}
+
+/* 6/12 */
+.grid.6 {
+    width: 50%;
+}
+
+/* full */
+.grid.12, .grid.all, .grid.full {
+    width: 100%;
+}
