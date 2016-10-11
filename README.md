@@ -9,3 +9,6 @@ A CSS-File for small projects
 * Buttons
 * Nav's
 * Alerts
+
+## Licence
+MIT
