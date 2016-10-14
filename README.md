@@ -1,5 +1,5 @@
 # first.css
-A CSS-File for small and large projects
+A CSS-File for small and large projects.
 
 ## Todo
 * Body
