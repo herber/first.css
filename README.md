@@ -3,7 +3,7 @@ A small CSS-File for big projects
 
 ## Todo
 * Responsive grid
-* Buttons
+* Buttons(1 done)
 * Nav's
 * Alerts
 
