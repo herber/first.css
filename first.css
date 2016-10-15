@@ -91,3 +91,31 @@ a:hover, a:active {
 .grid.12, .grid.all, .grid.full {
     width: 100%;
 }
+
+/*
+    Button styles
+*/
+.button {
+    text-decoration: none;
+    padding: 7px 30px;
+    border-radius: 300px;
+    font-size: 20px;
+}
+
+.button .btn-green {
+    border: solid #00e676 3px;
+    color: #00e676;
+    background: white;
+    
+    -webkit-transition: border .4s, color .4s, background .4s;
+    -moz-transition: border .4s, color .4s, background .4s;
+    -o-transition: border .4s, color .4s, background .4s;
+    -ms-transition: border .4s, color .4s, background .4s;
+    transition: border .4s, color .4s, background .4s;
+}
+
+.button .btn-green:hover, .button .btn-green:active, .button .btn-green:focus {
+    border: solid #00e676 3px;
+    color: white;
+    background: #00e676;
+}
