@@ -43,11 +43,11 @@ a {
     color: black;
     border: solid #eeeeee 3px;
     
-    -webkit-transition: all .4s;
-    -moz-transition: all .4s;
-    -o-transition: all .4s;
-    -ms-transition: all .4s;
-    transition: all .4s;
+    -webkit-transition: border .4s;
+    -moz-transition: border .4s;
+    -o-transition: border .4s;
+    -ms-transition: border .4s;
+    transition: border .4s;
 }
 
 a:hover, a:active {
