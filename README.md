@@ -1,10 +1,10 @@
 # first.css
-A CSS-File for small and large projects.
+A small CSS-File for big projects
 
 ## Todo
 * Body
 * Links
-* Basic grid
+* Basic Grid
 * Responsive grid
 * Buttons
 * Nav's
