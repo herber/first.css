@@ -12,7 +12,7 @@ body {
     padding: 0px;
     left: 0px;
     top: 0px;
-    font-size: 2.4em;
+    font-size: 1.4em;
     font-family: monospace, sans-serif;
 }
 
@@ -22,7 +22,7 @@ body {
 body.small {
     max-width: 960px;
     margin: 100px auto;
-    font-size: 2.4em;
+    font-size: 1.4em;
     font-family: monospace, sans-serif;
     padding: 0px;
 }
