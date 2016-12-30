@@ -14,5 +14,5 @@
   - **.button**(A simple button)
     - .button.btn-green(A green button)
 
-## Licence
+## License
 MIT
