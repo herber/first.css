@@ -92,6 +92,12 @@ a:hover, a:active {
     width: 100%;
 }
 
+@media only screen and (max-width: 1024px) {
+    .grid.1, .grid.2, .grid.3, .grid.6, .grid.12, .grid.all, .grid.full {
+        width: 100%;
+    }
+}
+
 /*
     Button styles
 */
